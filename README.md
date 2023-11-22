@@ -46,6 +46,16 @@ pub.rec: The borrower's number of derogatory public records (bankruptcy filings,
 5. XGboost with cross-validation 	     87%
 6. XGboost with hyperparameter tuning 	  82%
 
+| Ml Classifier      | Accuracy %         |
+| ------------- | ---------------------|
+| Logistic Regression      | 64 |
+| Support vector machine     | 67  |
+| Random forest | 80 |
+| XGBoost classifier | 81 |
+| XGBoost with cross validation  | 87 |
+| XGBoost with hyper parameter tuning| 82|
+
+
 ### Findings 
 
 Ensemble models performed better on the dataset 
