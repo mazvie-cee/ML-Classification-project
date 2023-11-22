@@ -1,6 +1,3 @@
-## GitHub Topics
-#python #data-analysis #machine-learning 
-
 # ML-Classification-project - Lending club loan data analysis Simplilearn project
 
 A class project practicing machine learning classification algorithms.
