@@ -30,25 +30,25 @@ pub.rec: The borrower's number of derogatory public records (bankruptcy filings,
 
 ## Workflow 
 1.	Data collection 
-2.	Exploratory data analysis 
-3.	Splitting data 
-4.	Data scaling 
-5.	Balancing the imbalanced dataset 
-6.	Made predictions using some ML algorithms 
-7.	Used cross-validation and hyperparameter tuning of the best-performing base model
+2.	Exploratory data analysis
+3.	Balance the imbalanced dataset
+4.	Splitting data
+5.	Feature engineering - Encoding and data scaling 
+6.	Balancing the imbalanced dataset 
+7.	Made predictions using some ML algorithms 
+8.	Used cross-validation and hyperparameter tuning of the best-performing base model
    
 ### Results
 
 
 | Machine learning Classifier      | Accuracy %         |
 | ------------- | ---------------------|
-| Logistic Regression      | 64 |
+| XgBoost | 87|
+| Random forest | 86 |
+| Deep learning on imbalanced data | 86|
+| Deep learning on balanced data | 77|
 | Support vector machine     | 67  |
-| Random forest | 80 |
-| XGBoost classifier | 81 |
-| XGBoost with cross validation  | 87 |
-| XGBoost with hyper parameter tuning| 82|
-
+| Logistic Regression      | 64 |
 
 ### Findings 
 
