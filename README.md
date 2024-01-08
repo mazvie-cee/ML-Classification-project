@@ -43,6 +43,7 @@ pub.rec: The borrower's number of derogatory public records (bankruptcy filings,
 
 | Machine learning Classifier      | Accuracy %         |
 | ------------- | ---------------------|
+| XGBOOST with cross validation (mean score)    | 88 |
 | XgBoost with hyper parameter tuning | 84|
 | Xg boost | 82|
 | Random forest | 81 |
@@ -50,8 +51,6 @@ pub.rec: The borrower's number of derogatory public records (bankruptcy filings,
 | Deep learning with regularization | 61|
 | Support vector machine     | 57  |
 | Deep learning |43|
-
-| XGBOOST with cross validation     | 88 |
 
 
 ### Findings 
