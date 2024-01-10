@@ -37,6 +37,7 @@ pub.rec: The borrower's number of derogatory public records (bankruptcy filings,
 6.	Balancing the imbalanced dataset 
 7.	Made predictions using some ML algorithms 
 8.	Used cross-validation and hyperparameter tuning of the best-performing base model
+9.	Serialized the best performing model using pickle and joblib 
    
 ### Results
 
@@ -50,7 +51,6 @@ pub.rec: The borrower's number of derogatory public records (bankruptcy filings,
 | Logistic Regression      | 61 |
 | Deep learning with regularization | 61|
 | Support vector machine     | 57  |
-| Deep learning |43|
 
 
 ### Findings 
