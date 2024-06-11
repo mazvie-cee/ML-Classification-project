@@ -1,6 +1,6 @@
-# ML-Classification-project - Lending club loan data analysis Simplilearn project
+# ML-Classification-project - Lending club loan data
 
-A class project practicing machine learning classification algorithms.
+A project practicing machine learning classification algorithms.
 
 ## DESCRIPTION
 
